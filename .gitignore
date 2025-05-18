@@ -3,4 +3,6 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 .idea
-
+remark.txt
+go.sum
+test
